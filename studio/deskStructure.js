@@ -19,14 +19,14 @@ export default () =>
             .documentId('siteSettings')
         ),
       S.listItem()
-        .title('Blog posts')
+        .title('Posts')
         .schemaType('post')
-        .child(S.documentTypeList('post').title('Blog posts')),
+        .child(S.documentTypeList('post').title('Posts')),
       S.listItem()
-        .title('Authors')
+        .title('Admins')
         .icon(MdPerson)
         .schemaType('author')
-        .child(S.documentTypeList('author').title('Authors')),
+        .child(S.documentTypeList('author').title('Admins')),
       S.listItem()
         .title('Categories')
         .schemaType('category')
