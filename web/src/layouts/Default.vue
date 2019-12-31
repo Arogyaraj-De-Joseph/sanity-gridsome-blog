@@ -19,7 +19,8 @@
       <span class="footer__links">
         Powered by
         <a href="//gridsome.org">Gridsome</a> &amp;
-        <a href="//www.sanity.io">Sanity.io</a>
+        <a href="//www.sanity.io">Sanity.io</a>&amp;
+        <a href="//www.instagram.com/_arogyaraj_">Aro</a>
       </span>
     </footer>
   </div>
