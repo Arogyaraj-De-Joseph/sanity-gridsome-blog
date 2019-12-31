@@ -20,9 +20,9 @@ query {
 
   &__image {
     vertical-align: middle;
-    border-radius: 99px;
-    height: 40px;
-    width: 40px;
+    border-radius: 100px;
+    height: 50px;
+    width: 50px;
     margin-right: 0.5em;
   }
 }
